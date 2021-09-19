@@ -1,5 +1,1 @@
 Uploading to server.
-
-
-
-Making changes in the sample branch
